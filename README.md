@@ -71,7 +71,7 @@
 
 <div align="center">
 
-![snake gif](https://github.com/Ezrabayu/Ezrabayu/blob/output/github-contribution-grid-snake.gif)
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ezrabayu/Ezrabayu/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
