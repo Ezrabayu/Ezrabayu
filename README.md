@@ -71,7 +71,7 @@
 
 <div align="center">
 
-  <img alt="snake eating my contributions" src="https://github.com/Ezrabayu?tab=repositories" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ezrabayu/repositories/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
