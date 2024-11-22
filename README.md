@@ -64,7 +64,7 @@
     <img style="width: 400px; height: 330px" src="https://spotify-recently-played-readme.vercel.app/api?user=21dixysiwjs7rpwyj7jksxsqy" />
     &nbsp;
 &nbsp;
-    <img style="width: 400px; height: 330px" src="https://github.com/Ezrabayu"/>
+    <img style="width: 400px; height: 330px" src="https://github.com/Ezrabayu?tab=overview"/>
 </div>
 
 ###
