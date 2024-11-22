@@ -69,9 +69,4 @@
 
 ###
 
-<div align="center">
-
-  <img alt="snake eating my contributions" src="https://github.com/Ezrabayu/Ezrabayu/blob/output/github-contribution-grid-snake.gif" />
-  
-  <br/><br/><br/>
-</div>
+![snake gif](https://github.com/Ezrabayu/Ezrabayu/blob/output/github-snake-dark.svg)
